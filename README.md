@@ -1,1 +1,1 @@
-# embAttack
+# Privacy Attacks on Network Embeddings
